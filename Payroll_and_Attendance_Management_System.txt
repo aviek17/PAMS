@@ -1,0 +1,49 @@
+About the project
+
+Log In Credentials
+
+Admin : Ad71502   Password : Anamika@123
+Employee : 416640  Password :  user@7
+
+Admin Functionalities:
+
+1. In the dashboard , no of employees in the organization can be seen , total departments in the organisation, total pending leaves.
+	On clicking total department card , a bar chart pops out showing working hour for each the departments in hours.
+	On clicking pending leave card, department wise pending leave bar chart pops out.
+	Below there are graph showing total employess per department and also leave status .
+
+2. Can add new employee, view list of all employees, view profile of each employee and also delete them 
+	** Initially when admin will add new employee, their password will be   Password@123    which  needs to be changed on employee first login.
+
+3. Can view attendance which shows date , day, time in, time out, working hours
+
+4. Can view leaves of all employees , status of their leave, if pending, can accept or reject the leave and clicking on the view option can see the detailed 
+   information about the leaves.
+    
+   Can add new leaves, edit previous leaves and also delete the previos leaves.
+
+5. Can view salary of all employees, search by employee name or department. Can update salary of employees and also generate payslip of each employee
+
+6. In report section, there are two sections, leave and attendance.
+	In attendance section, clicking on the the employee name, a bar chart will pop out showing day wise working hours
+	In leave section, searching any employee and clicking on name will show a pie chart showing leave status of that employee
+
+7. In view role, there are departments, showing no of departments, no of employee in that department and head of that department (if any).
+   Can also add new role.
+
+8. In last section, admin can update employee department by clicking on action button and edita role.
+   Can also add new admin.
+
+
+Employee Functionalities:
+
+1. After login, it will redirect to dashboard page where he/she can see their full information. Can update their personal information and also change his/her password.
+
+2. Can view his/her own attendance . Can give attendance but time in should be after 8 a.m. and before 11 a.m. and time out should be after 5 p.m. and before 10 p.m.
+
+3. Can view his/her leave list.
+   On leave application page, can see the balance of each leave, now of pending leaves, requested, rejected and accepted.
+   Can also apply for leaves.
+
+4. Can generate his/her own payslip for every month.
+
