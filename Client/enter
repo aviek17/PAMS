@@ -1,0 +1,42 @@
+[33mcommit 511567cfa5c820460b852055fe0b5f2bfd63add8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Shauvik Paul <paulsayar99@gmail.com>
+Date:   Mon May 16 11:05:30 2022 +0530
+
+    View Role,Add Roles, Report Leave and Some Modifications
+
+[33mcommit 4759cc1b98794a52f56939b6d106176677729de4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Shauvik Paul <paulsayar99@gmail.com>
+Date:   Mon May 16 02:04:11 2022 +0530
+
+    Added Users,Leaves,Attendance Page and modifications
+
+[33mcommit 8129040d445633e1b60857376a593beabc3aa858[m
+Merge: 29becf2 ba505c9
+Author: Aviek <aviek17@gmail.com>
+Date:   Sun May 15 19:24:17 2022 +0530
+
+    Merge branch 'master' of https://github.com/paulShauvik99/attendance-patroll-system into master
+
+[33mcommit 29becf2417f9f74f9b9f1ad7cb7d95ac935e0b68[m
+Author: Aviek <aviek17@gmail.com>
+Date:   Sun May 15 19:23:59 2022 +0530
+
+    Av
+
+[33mcommit ba505c94eeeb9572b4b81b63237fb1cdd4b3e50d[m[33m ([m[1;32mmain[m[33m)[m
+Author: Shauvik Paul <paulsayar99@gmail.com>
+Date:   Sun May 15 13:24:26 2022 +0530
+
+    New Additions(Edit User) And Some Modifications
+
+[33mcommit fc2af17dc810549096fc2ec91aa4807d7a7d0a55[m
+Author: Shauvik Paul <paulsayar99@gmail.com>
+Date:   Sat May 14 02:54:22 2022 +0530
+
+    First Commit
+
+[33mcommit 26dc4e430fcca7b77508908f82843203fa80cf6e[m
+Author: Shauvik Paul <paulsayar99@gmail.com>
+Date:   Tue May 10 03:22:48 2022 +0530
+
+    Initialize project using Create React App
